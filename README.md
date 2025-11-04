@@ -31,9 +31,9 @@ Learning data cleaning, analysis, and visualization to build a strong foundation
 
 ### 📫 Contact
 
-Email: **chandrapal.deora.ds@gmail.com**
+- Email: **chandrapal.deora.ds@gmail.com**
+- [LinkedIn](https://www.linkedin.com/in/chandrapal-deora)
 
-*(LinkedIn profile coming soon!)*
 
 ---
 
