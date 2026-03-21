@@ -1,40 +1,31 @@
 # 👋 Hi, I'm Chandrapal Deora (Chandu Rajput)
+**Data Science & Machine Learning Aspirant | B.Sc. in IT**
 
-🎓 **B.Sc. in Information Technology** graduate, currently learning **Data Science**.
-💻 Exploring Python libraries and tools for data analysis and visualization.
-
----
-
-### 🧰 Tools & Environments I Use
-
-* **JupyterLab**
-* **Anaconda**
-* **Visual Studio Code**
+I am a results-driven IT graduate specializing in turning complex data into actionable business insights. I bridge the gap between raw data and predictive modeling using modern data science workflows.
 
 ---
 
-### 🐍 Python Libraries
+### 🛠️ Technical Stack
 
-* NumPy
-* Pandas
-* Matplotlib
-* Seaborn
-* Plotly
-
----
-
-### 🎯 Current Focus
-
-Learning data cleaning, analysis, and visualization to build a strong foundation in data science.
+| Category | Tools & Libraries |
+| :--- | :--- |
+| **Data Analysis** | Python, NumPy, Pandas |
+| **Machine Learning** | Scikit-Learn (Sklearn) |
+| **Visualization** | Matplotlib, Seaborn, Plotly, Power BI |
+| **Databases** | SQL (Data Querying & Manipulation) |
+| **Environment** | JupyterLab, VS Code, Anaconda |
 
 ---
 
-### 📫 Contact
-
-- Email: **chandrapal.deora.ds@gmail.com**
-- [LinkedIn](https://www.linkedin.com/in/chandrapal-deora)
-
+### 🧪 What I’m Doing
+* **Machine Learning:** Building predictive models using **Scikit-Learn** (Regression, Classification, and Clustering).
+* **Data Storytelling:** Creating interactive dashboards in **Power BI** and advanced plots using **Plotly**.
+* **SQL:** Writing efficient queries to extract and transform data for analysis.
 
 ---
 
-⭐️ *“Learning every day to turn data into insights.”*
+### 📫 Let's Connect!
+* **LinkedIn:** [linkedin.com/in/chandrapal-deora](https://www.linkedin.com/in/chandrapal-deora)
+* **Email:** [chandrapal.deora.ds@gmail.com](mailto:chandrapal.deora.ds@gmail.com)
+
+> "Data is the new oil, but it's only valuable if you know how to refine it."
