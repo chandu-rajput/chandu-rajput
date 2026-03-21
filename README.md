@@ -1,7 +1,9 @@
-# 👋 Hi, I'm Chandrapal Deora (Chandu Rajput)
-**Data Science & Machine Learning Aspirant | B.Sc. in IT**
+# 👋 Hi, I'm Chandrapal Deora
+**Data Scientist | Machine Learning Engineer**
 
-I am a results-driven IT graduate specializing in turning complex data into actionable business insights. I focus on building end-to-end machine learning solutions, from automated preprocessing pipelines to interactive web deployments.
+I am a B.Sc. IT graduate and Data Science professional dedicated to transforming complex datasets into actionable business intelligence. My expertise lies in architecting end-to-end Machine Learning lifecycles—from automated data preprocessing and feature engineering pipelines to deploying interactive, user-facing applications. 
+
+I don't just build models; I build solutions that bridge the gap between raw data and strategic decision-making.
 
 ---
 
