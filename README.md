@@ -28,12 +28,11 @@ I am a results-driven IT graduate specializing in turning complex data into acti
 
 ### 🧪 Featured Projects
 
-🤖 Content-Based Movie Recommendation System
-The Goal: Developed a hybrid recommendation engine that suggests the top 5 movies based on user input. It utilizes a custom formula combining Cosine Similarity and IMDb Weighted Ratings for improved accuracy.
+#### 🤖 [Content-Based Movie Recommendation System](https://github.com/chandu-rajput/Recommendation-System)
+* **The Goal:** Developed a **hybrid recommendation engine** that suggests the top 5 movies based on user input. It utilizes a custom mathematical formula combining **Cosine Similarity** and **IMDb Weighted Ratings** for superior accuracy.
+* **Tech Stack:** Python, NLTK, TF-IDF Vectorizer, Scikit-Learn.
+* **Key Feature:** Fully deployed as a live, interactive web application using **Streamlit**.
 
-Tech: Python, NLTK, TF-IDF Vectorizer, Scikit-Learn.
-
-Key Feature: Fully deployed as an interactive web application using Streamlit.
 ---
 
 ### 📫 Let's Connect!
