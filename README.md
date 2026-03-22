@@ -35,7 +35,6 @@ I don't just build models; I build solutions that bridge the gap between raw dat
 * **Tech Stack:** Python, NLTK, TF-IDF Vectorizer, Scikit-Learn.
 * **Key Feature:** Fully deployed as a live, interactive web application using **Streamlit**.
 ##### 🚀 Live Demo
-You can view the live version of this app here:
 * [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://recommendation-system-dyficwxopxbvhhorgc3jfq.streamlit.app/)
 
 ---
