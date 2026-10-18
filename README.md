@@ -35,7 +35,7 @@ I'm also expanding my knowledge of Deep Learning and Generative AI, exploring LL
 
 ### 🚀 Featured Projects
 
-#### 🤖 [CityPulse Agent](https://github.com/YOUR-USERNAME/city_assistant-agent)
+#### 🤖 CityPulse Agent
 
 An AI agent that retrieves current weather and the latest news for Indian cities.
 
@@ -46,7 +46,7 @@ An AI agent that retrieves current weather and the latest news for Indian cities
 
 **Tech Stack:** Python, LangChain, Mistral AI, Streamlit, OpenWeather API, Tavily API.
 
-#### 🎬 [Content-Based Movie Recommendation System](https://github.com/chandu-rajput/Recommendation-System)
+#### 🎬 Content-Based Movie Recommendation System
 
 A recommendation system that suggests similar movies based on their content features.
 
