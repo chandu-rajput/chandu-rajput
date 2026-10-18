@@ -1,46 +1,100 @@
 # 👋 Hi, I'm Chandrapal Deora
-**Data Scientist | Machine Learning Engineer**
 
-I am a B.Sc. IT graduate and Data Science professional dedicated to transforming complex datasets into actionable business intelligence. My expertise lies in architecting end-to-end Machine Learning lifecycles—from automated data preprocessing and feature engineering pipelines to deploying interactive, user-facing applications. 
+**Aspiring Data Scientist | Machine Learning & Generative AI**
 
-I don't just build models; I build solutions that bridge the gap between raw data and strategic decision-making.
+I'm a B.Sc. IT graduate (2025) with a strong foundation in Python, SQL, Machine Learning, and NLP. I enjoy working on end-to-end machine learning projects, from data preprocessing and exploratory data analysis to feature engineering, model training, and evaluation.
 
----
-
-### 🛠️ Technical Stack
-
-| Category | Tools & Libraries |
-| :--- | :--- |
-| **Data Analysis** | Python, NumPy, Pandas |
-| **Machine Learning** | Scikit-Learn (Sklearn), Hyperparameter Tuning |
-| **Natural Language Processing** | NLTK (Lemmatization, Stopwords), TF-IDF |
-| **Visualization & App Dev** | Power BI, Streamlit, Matplotlib, Seaborn, Plotly |
-| **Database & DevTools** | SQL, **uv** (Environment Mgmt), Git, VS Code |
+I'm also expanding my knowledge of Deep Learning and Generative AI, exploring LLMs, RAG, tool calling, and AI agents by building practical projects.
 
 ---
 
-### 🧠 Core Competencies
+### 🛠️ Technical Skills
 
-* **Advanced Preprocessing:** Proficient in creating **Sklearn Pipelines** using `ColumnTransformer` for OneHotEncoding, OrdinalEncoding, and Scaling to ensure reproducible, leak-free models.
-* **Predictive Modeling:** Experienced in building and optimizing **Regression** and **Classification** models with rigorous hyperparameter tuning.
-* **NLP & Recommendation:** Skilled in transforming unstructured text into structured insights for content-based recommendation engines.
-* **Modern Workflow:** Using **uv** for lightning-fast, reproducible dependency management and environment isolation.
-
----
-
-### 🧪 Featured Projects
-
-#### 🤖 [Content-Based Movie Recommendation System](https://github.com/chandu-rajput/Recommendation-System)
-* **The Goal:** Developed a **hybrid recommendation engine** that suggests the top 5 movies based on user input. It utilizes a custom mathematical formula combining **Cosine Similarity** and **IMDb Weighted Ratings** for superior accuracy.
-* **Tech Stack:** Python, NLTK, TF-IDF Vectorizer, Scikit-Learn.
-* **Key Feature:** Fully deployed as a live, interactive web application using **Streamlit**.
-##### 🚀 Live Demo
-* [![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://recommendation-system-dyficwxopxbvhhorgc3jfq.streamlit.app/)
+| Category | Tools & Technologies |
+|---|---|
+| Programming | Python, SQL |
+| Data Analysis | Pandas, NumPy |
+| Machine Learning | Scikit-learn, XGBoost, Regression, Classification, Feature Engineering, Model Evaluation, Hyperparameter Tuning |
+| Deep Learning | Neural Network Fundamentals |
+| NLP | Text Preprocessing, TF-IDF, Cosine Similarity |
+| Generative AI | LLM Fundamentals, Prompt Engineering, RAG (Basic), Tool Calling, AI Agents, Chatbot Development |
+| Visualization | Matplotlib, Seaborn |
+| Tools | Git, GitHub, Jupyter Notebook, VS Code |
 
 ---
 
-### 📫 Let's Connect!
-* **LinkedIn:** [linkedin.com/in/chandrapal-deora](https://www.linkedin.com/in/chandrapal-deora)
-* **Email:** [chandrapal.deora.ds@gmail.com](mailto:chandrapal.deora.ds@gmail.com)
+### 🧠 Areas of Interest
 
-> "Turning raw data into predictive power, one pipeline at a time."
+- Building end-to-end Machine Learning projects.
+- Data preprocessing, feature engineering, and model evaluation.
+- Developing LLM-powered applications using LangChain.
+- Exploring RAG, tool calling, and AI agents.
+- Learning Deep Learning and modern Generative AI techniques.
+
+---
+
+### 🚀 Featured Projects
+
+#### 🤖 [CityPulse Agent](https://github.com/YOUR-USERNAME/city_assistant-agent)
+
+An AI agent that retrieves current weather and the latest news for Indian cities.
+
+- Integrated OpenWeather and Tavily APIs to retrieve live weather information and search for recent news.
+- Used LangChain tool calling to let the LLM select relevant tools based on user queries.
+- Built a Streamlit chat interface with conversation history for follow-up questions.
+- Implemented human approval before tool execution in terminal mode.
+
+**Tech Stack:** Python, LangChain, Mistral AI, Streamlit, OpenWeather API, Tavily API.
+
+#### 🎬 [Content-Based Movie Recommendation System](https://github.com/chandu-rajput/Recommendation-System)
+
+A recommendation system that suggests similar movies based on their content features.
+
+- Applied text preprocessing to prepare movie information.
+- Used TF-IDF to convert text into numerical representations.
+- Used cosine similarity to identify movies with similar content.
+
+**Tech Stack:** Python, Pandas, NLTK, TF-IDF, Scikit-learn.
+
+#### 🏠 House Price Prediction
+
+A regression project that predicts residential house prices using property features.
+
+- Performed exploratory data analysis, data preprocessing, and feature engineering.
+- Compared multiple regression models and tuned the final model.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, XGBoost.
+
+#### ✈️ Flight Fare Prediction
+
+A machine learning project that predicts flight ticket prices from journey and flight details.
+
+- Extracted useful date, time, and duration features.
+- Compared regression models and optimized the final model through hyperparameter tuning.
+
+**Tech Stack:** Python, Pandas, Scikit-learn, XGBoost.
+
+#### 💳 Home Loan Default Prediction
+
+A classification project that predicts the risk of loan default using customer application data.
+
+- Performed data cleaning, feature engineering, and preprocessing.
+- Compared classification models using relevant evaluation metrics.
+
+**Tech Stack:** Python, Pandas, NumPy, Scikit-learn, LightGBM.
+
+---
+
+### 🎓 Education
+
+**Bachelor of Science in Information Technology (B.Sc. IT)**  
+VIVA College, University of Mumbai | 2025
+
+---
+
+### 📫 Connect With Me
+
+- **LinkedIn:** [Connect with me](https://www.linkedin.com/in/chandrapal-deora/)
+- **GitHub:** [Explore my projects](https://github.com/chandu-rajput)
+
+I'm continuously learning and building projects to strengthen my skills in Data Science, Machine Learning, and Generative AI.
